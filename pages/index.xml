@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>About</title>
+      <title>Services</title>
       <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
@@ -21,38 +21,20 @@
     </item>
     
     <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/history/</guid>
-      <description>About Heading </description>
-    </item>
-    
-    <item>
       <title>Services</title>
-      <link>/caddieabout/</link>
+      <link>/services/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/caddieabout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/caddieservices/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/caddieservices/</guid>
+      <guid>/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>/caddiework/</link>
+      <link>/work/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/caddiework/</guid>
+      <guid>/work/</guid>
       <description></description>
     </item>
     
